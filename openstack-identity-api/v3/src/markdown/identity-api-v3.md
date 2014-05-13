@@ -9,6 +9,8 @@ The Identity API also provides endpoint discovery through a service catalog,
 identity management, project management, and a centralized repository for
 policy engine rule sets.
 
+[TOC]
+
 What's New in Version 3.3
 -------------------------
 
